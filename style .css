@@ -1,0 +1,30 @@
+
+
+section#center{
+    background: rgb(158, 60, 60);
+    border-radius:10px ;
+    padding: 55px;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    box-shadow: 20px 20px 20px black;
+    text-align: center;
+}
+
+section#f{
+    text-align: center;
+   color: rgb(8, 7, 7);
+   font-size: 90px;
+}
+
+#bt1 {
+    background-color: orangered;
+}
+
+#bt2 {
+    background-color: peru;
+}
+
+#bt3 {
+    background-color: purple;
+}
